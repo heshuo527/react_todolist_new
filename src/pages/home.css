@@ -1,0 +1,34 @@
+.ant-layout {
+    height: 100vh;
+}
+
+.ant-menu-title-content:first {
+    font-size: 0px;
+}
+
+.todo-home-inp {
+    width: 400px;
+    margin-right: 20px;
+}
+
+.todo-home-tab {
+    margin-top: 20px;
+}
+
+.home-button-done {
+    margin-right: 10px;
+}
+
+.logo {
+    color: #fff;
+
+}
+.todo-content-true {
+    text-decoration: line-through;
+    background-color: #1677ff;
+    color: #fff;
+    font-size: 16px;
+}
+.todo-content-false {
+    font-size: 16px;
+}
